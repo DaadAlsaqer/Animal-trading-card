@@ -1,0 +1,25 @@
+body{
+  border: 2px solid black;
+  margin: 1px 5px;
+  padding: 1px 20px 10px 20px;
+  width:350px;
+}
+.font-style-changer{
+  font-style: italic;
+}
+.font-weight-changer{
+  font-weight: bold;
+}
+ul{
+  list-style: none;
+  padding: 0;
+}
+.border{
+  border: 1px solid black;
+  margin: 5px 0;
+  padding: 5px;
+}
+/*Thank you very much.
+I feel more confident now about my skills ;).
+If you've more suggestions to improve my coding skills, please let me know.
+Daad Alsaqer*/
